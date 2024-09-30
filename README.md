@@ -45,6 +45,8 @@ The design of CampAIgn aims to solve these problems through:
 ## Design Tools
  Figma
 
+### Campaign Management
+![Campaign Management](./UI/BOT-4.png)
 
 
 ## Competitor Research
