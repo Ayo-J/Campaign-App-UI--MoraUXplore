@@ -45,9 +45,6 @@ The design of CampAIgn aims to solve these problems through:
 ## Design Tools
  Figma
 
-## Screenshots
-
-![](./UI/Campain create step.png)
 
 
 ## Competitor Research
@@ -62,6 +59,9 @@ The design of CampAIgn aims to solve these problems through:
 ## Conclusion
 CampAIgn is designed to revolutionize the way businesses manage marketing campaigns by providing an intuitive and AI-enhanced user experience. The UI/UX aims to simplify campaign management while leveraging AI to make personalization and automation more accessible to users.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Figma Prototype
+You can view and interact with the **CampAIgn** prototype on Figma using the link below:
+[CampAIgn Figma Prototype](https://www.figma.com/proto/bUBzIvLS2spyVv20lDGVzw/MOBILE-CMS--MAIN?page-id=0%3A1&node-id=1-42&viewport=426%2C243%2C0.21&t=mceL9QgXW2wFPLDx-1&scaling=scale-down&content-scaling=fixed)
 
