@@ -59,6 +59,11 @@ The design of CampAIgn aims to solve these problems through:
 ## Conclusion
 CampAIgn is designed to revolutionize the way businesses manage marketing campaigns by providing an intuitive and AI-enhanced user experience. The UI/UX aims to simplify campaign management while leveraging AI to make personalization and automation more accessible to users.
 
+## Contributors
+- [Thathsarani Dhanangal](https://www.figma.com/@thathsarani)
+- [Dulmin Shanilka](https://www.figma.com/@dulminshanilka)
+- [Ayodya Weerabahu](https://figma.com/@ayodya2)
+
 
 
 ## Figma Prototype
