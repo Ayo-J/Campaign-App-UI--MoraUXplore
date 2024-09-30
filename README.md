@@ -43,23 +43,12 @@ The design of CampAIgn aims to solve these problems through:
    - Clear and concise charts and graphs showcasing campaign performance metrics, including engagement, audience growth, and conversion rates.
 
 ## Design Tools
-- **Wireframes:** Figma
-- **Prototyping:** Adobe XD
-- **Mockups:** Sketch
-- **Usability Testing:** InVision
+ Figma
 
 ## Screenshots
-### 1. Workspace Creation UI
-![Workspace Creation UI](./screenshots/workspace.png)
 
-### 2. Campaign Setup Flow
-![Campaign Setup Flow](./screenshots/campaign-setup.png)
+![](./UI/Campain create step.png)
 
-### 3. Analytics Dashboard
-![Analytics Dashboard](./screenshots/analytics-dashboard.png)
-
-### 4. AI Bot Assistance Interface
-![AI Bot Interface](./screenshots/ai-bot.png)
 
 ## Competitor Research
 | Feature                      | Mailchimp           | HubSpot            | Hootsuite          | CampAIgn (UI/UX) |
